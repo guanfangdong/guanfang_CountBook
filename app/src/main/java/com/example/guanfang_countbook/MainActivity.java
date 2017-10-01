@@ -35,6 +35,10 @@ import java.util.NoSuchElementException;
  * allow user to see all current activities we have.
  *
  *
+ *  Date: Sept 30, 2017
+ *
+ * Copyright (x) Team X, CMPUT301, University of Alberta - All Rights Reserved. You may use, distribute, or modify this code under terms and conditions of the code behaviour of students.
+ *
  * @author Guanfang Dong
  * @version  1.0
  * @since 1.0

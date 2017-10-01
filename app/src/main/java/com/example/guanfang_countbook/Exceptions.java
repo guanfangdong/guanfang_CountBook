@@ -10,6 +10,10 @@ import android.widget.TextView;
  * This class is Exceptions, it will show a notice and a back button
  *
  *
+ *  Date: Sept 30, 2017
+ *
+ * Copyright (x) Team X, CMPUT301, University of Alberta - All Rights Reserved. You may use, distribute, or modify this code under terms and conditions of the code behaviour of students.
+ *
  * @author Guanfang Dong
  * @version  1.0
  * @since 1.0
